@@ -17,7 +17,6 @@ header{
     left: 0;
     width: 100%;
     height: 100%;
-    /* background-image: url('img/post-img.webp'); */
     background-position: 35% 35%;
     filter: brightness(55%);
     border-radius: var(--bs-card-border-radius)
